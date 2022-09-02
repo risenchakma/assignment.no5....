@@ -1,0 +1,46 @@
+.box{
+	width: 100px;
+	height: 100px;
+}
+.red{
+	background-color: red;
+	border: 10px solid black;
+	padding: 50px;
+}
+.green{
+	background-color: green;
+	margin: 50px 100px 30px 40px;
+}
+.blue{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+}
+h1{
+	display: inline;
+}
+h2{
+	display: inline;
+}
+p{
+	display: block;
+}
+a{
+	display: block;
+}
+h3{
+	color: green;
+}
+
+.span{
+	color: black;
+}
+
+.frame{
+	width: 49%;
+	height: 370px;
+}
+.frame2{
+	width: 100%;
+	height: 450;
+}
